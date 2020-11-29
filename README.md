@@ -31,7 +31,7 @@ If a case arises when the player does not know the correct connection of a parti
 # Game descriptions
 There are three difficulty levels in the game, namely Easy Mode, Medium Mode, and Hard Mode. At the welcome screen, the user can choose the mode from the Menu. The timer will start to count and be shown in the top right corner of the headset after the mode is chosen (\pic).
 
-Easy Mode (\pic): **some descriptions go here**
+**Easy Mode:**
 
 | Models | Description |
 | --- | --- |
@@ -42,7 +42,7 @@ Easy Mode (\pic): **some descriptions go here**
 | ![alt text](/Models/Sternum.jpg) | Sternum|
 | ![alt text](/Models/XyphiodProcess.jpg) |XyphiodProcess |
 
-Medium Mode (\pic): **some descriptions go here**
+**Medium Mode:**
 | Models | Description |
 | --- | --- |
 | ![alt text](/Models/Patella.jpg) | Patella |
@@ -61,7 +61,7 @@ Medium Mode (\pic): **some descriptions go here**
 | ![alt text](/Models/leftHumerus.jpg) | Humerus |
 | ![alt text](/Models/lefthand.jpg) | Hand |
 
-Hard Mode (\pic): **some descriptions go here**
+**Hard Mode:**
 
 
 # Team Contribution
