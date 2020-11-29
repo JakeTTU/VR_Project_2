@@ -34,6 +34,23 @@ There are three difficulty levels in the game, namely Easy Mode, Medium Mode, an
 Easy Mode (\pic): **some descriptions go here**
 
 Medium Mode (\pic): **some descriptions go here**
+| Models | Description |
+| --- | --- |
+| ![alt text](/Models/Patella.jpg) | Patella |
+| ![alt text](/Models/Pelvis.jpg) | Pelvis|
+| ![alt text](/Models/Radius.jpg) | Radius |
+| ![alt text](/Models/RibCages.png) | RibCages |
+| ![alt text](/Models/Scapula.png) | Scapula|
+| ![alt text](/Models/Skull.jpg) |Skull |
+| ![alt text](/Models/Spine.jpg) | Spine |
+| ![alt text](/Models/Tibia.jpg) | Tibia |
+| ![alt text](/Models/Ulna.jpg) | Ulna |
+| ![alt text](/Models/leftClavicle.jpg) | Clavicle |
+| ![alt text](/Models/leftFemur.jpg) | Femur|
+| ![alt text](/Models/leftFibula.jpg) | Fibula |
+| ![alt text](/Models/leftFoot.jpg) | Foot |
+| ![alt text](/Models/leftHumerus.jpg) | Humerus |
+| ![alt text](/Models/lefthand.jpg) | Hand |
 
 Hard Mode (\pic): **some descriptions go here**
 
