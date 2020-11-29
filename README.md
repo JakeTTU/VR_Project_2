@@ -18,7 +18,7 @@ Our aim is to provide an interactive and appealing educational application to fa
 # Design Solution
 
 
-First, we use Blender to create the bones (\pic). These individual bones are then used to design the game. The game is implemented with Unity. 
+First, we use Blender to create the bone models from a full skeleton model (\pic). These individual bones are then used to design the game and scaled so that the final assembled full skeleton was 6 foot tall. The game is implemented using Unity for gameplay on Oculus Rift. 
 
 For this game, the player has the choice between three game difficulties, Easy Mode, Medium Mode, and Hard Mode. In Easy Mode, the player assembles a detailed ribcage. For Medium Mode, the player assembles all of the bones of the human skeleton. For Hard Mode the player assembles a detailed model of the human skull. When assembling the bones, an audible snap is presented to the player when the player positions the bone in the correct location. When the bone is released after the snap sound is heard, the bone anchor relocates to the position of the predetermined snap location. 
 
@@ -39,18 +39,18 @@ Hard Mode (\pic): **some descriptions go here**
 
 
 # Team Contribution
-- Make the bones 
-- Set up Oculus Rift
-- Set up Unity project
-- Import the bones to Unity project
-- Create the scene
-- Implement logical functions 
-- Make a demo video
-- Write Report
+- Make the bones - Afam, Jake
+- Set up Oculus Rift - Chau
+- Set up Unity project - Chau
+- Import the bones to Unity project - Jake
+- Create the scene - All
+- Implement logical functions - Chau, Jake
+- Make a demo video - All
+- Write Report - All
 - **TODO: add more**
 
 # Conclusion
-We implement a VR Puzzle Game with Blender, Unity and Oculus Rift. The game allows users to grab and assemble bones to educate them about the human skeletal system. In this project, we want to bring a new experience for players so that they can see the learning in a much more intriguing way.
+We implemented a VR Puzzle Game with Blender, Unity and Oculus Rift. The game allows users to grab and assemble bones to educate them about the human skeletal system. In this project, we want to bring a new experience for players so that they can see the learning in a much more intriguing way.
 
 # Future Work
 In future work, we would like to complete the game by adding hints to help players when they get stuck. More information related to the bones would be useful in terms of learning. Besides, we aim to explore other features such as **Top Score** to save the score of player and **Highlight** effect to make the pair of bones highlighted when the user assembles them correctly. It is also worth getting feedback from the players, especially medical students, to better understand their needs, which in turn helps us further improve the game for educational purpose.
