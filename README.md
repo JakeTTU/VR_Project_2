@@ -18,7 +18,7 @@ Our aim is to provide an interactive and appealing educational application to fa
 # Design Solution
 
 
-First, we use Blender to create the bone models from a full skeleton model (\pic). These individual bones are then used to design the game and scaled so that the final assembled full skeleton was 6 foot tall. The game is implemented using Unity for gameplay on Oculus Rift. 
+First, we use Blender to create the bone models from a full skeleton model (\pic). These individual bones are then used to design the game and scaled so that the final assembled full skeleton was 6 feet tall. The game is implemented using Unity for gameplay on Oculus Rift. 
 
 For this game, the player has the choice between three game difficulties, Easy Mode, Medium Mode, and Hard Mode. In Easy Mode, the player assembles a detailed ribcage. For Medium Mode, the player assembles all of the bones of the human skeleton. For Hard Mode the player assembles a detailed model of the human skull. When assembling the bones, an audible snap is presented to the player when the player positions the bone in the correct location. When the bone is released after the snap sound is heard, the bone anchor relocates to the position of the predetermined snap location. 
 
