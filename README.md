@@ -20,7 +20,7 @@ Our aim is to provide an interactive and appealing educational application to fa
 
 First, we use Blender to create the bones (\pic). These individual bones are then used to design the game. The game is implemented with Unity. 
 
-For this game, the player has the choice between three game difficulties, easy mode, medium mode, and hard mode. In easy mode, the player assembles a detailed ribcage. For medium mode, the player assembles all of the bones of the human skeleton. For hard mode the player assembles a detailed model of the human skull. When assembling the bones, an audible snap is presented to the player when the player positions the bone in the correct location. When the bone is released after the snap sound is heard, the bone anchor relocates to the position of the predetermined snap location. 
+For this game, the player has the choice between three game difficulties, Easy Mode, Medium Mode, and Hard Mode. In Easy Mode, the player assembles a detailed ribcage. For Medium Mode, the player assembles all of the bones of the human skeleton. For Hard Mode the player assembles a detailed model of the human skull. When assembling the bones, an audible snap is presented to the player when the player positions the bone in the correct location. When the bone is released after the snap sound is heard, the bone anchor relocates to the position of the predetermined snap location. 
 
 When a bone is grabbed by the user, the name of the bone appears next to the bone with the purpose to aid in the education of the player. 
 
