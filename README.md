@@ -51,4 +51,6 @@ In future work, we would like to complete the game by adding hints to help playe
 
 ## Sources
 Skeleton Model: https://sketchfab.com/3d-models/skeleton-aad392aff87246179789ac23063856a6
-SnapSound:
+Snap Sound: https://www.fesliyanstudios.com/royalty-free-sound-effects-download/snapping-fingers-149
+Wood Texture: https://lh3.googleusercontent.com/proxy/SH7fElPo6KGf_aWWUmouHou7huvU7EKhAhZpOmTGdavJ_k9Q_Ry5F873vSwFGIrkVquwAYvOqPU-QvqXvRX_vL6Lt9f0tVct7CN3mVGpeVqAaWmU6up2FPHMnRGvgMbYALAAKZyr-Ina5UY7Ruz0AuMmVVrijWU
+Snap Script: https://www.youtube.com/watch?v=NWgRud-OY2s
