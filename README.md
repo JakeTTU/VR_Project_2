@@ -33,6 +33,15 @@ There are three difficulty levels in the game, namely Easy Mode, Medium Mode, an
 
 Easy Mode (\pic): **some descriptions go here**
 
+| Models | Description |
+| --- | --- |
+| ![alt text](/Models/CastalCartilage.jpg) | CastalCartilage |
+| ![alt text](/Models/FloatingRibs.jpg) | FloatingRibs|
+| ![alt text](/Models/Manubrium.jpg) | Manubrium |
+| ![alt text](/Models/Ribs.jpg) | Ribs |
+| ![alt text](/Models/Sternum.jpg) | Sternum|
+| ![alt text](/Models/XyphiodProcess.jpg) |XyphiodProcess |
+
 Medium Mode (\pic): **some descriptions go here**
 | Models | Description |
 | --- | --- |
