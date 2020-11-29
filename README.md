@@ -44,7 +44,7 @@ Hard Mode (\pic): **some descriptions go here**
 - Set up Unity project - Chau
 - Import the bones to Unity project - Jake
 - Create the scene - All
-- Implement logical functions - Chau, Jake
+- Implement logical functions - All
 - Make a demo video - All
 - Write Report - All
 - **TODO: add more**
