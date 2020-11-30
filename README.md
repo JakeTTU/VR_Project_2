@@ -36,7 +36,9 @@ There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*
 
 ![alt text](ReferenceResources/skeletons.PNG)
 
-**Easy Mode**
+
+## Easy Mode
+
 ![alt text](ReferenceResources/easyMode.png)
 
 | Models | Description |
@@ -49,7 +51,9 @@ There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*
 | ![alt text](ReferenceResources/Models/XyphiodProcess.jpg) |XyphiodProcess |
 
 
-**Medium Mode**
+
+## Medium Mode
+
 ![alt text](ReferenceResources/mediumMode.png)
 
 | Models | Description |
@@ -71,7 +75,7 @@ There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*
 | ![alt text](ReferenceResources/Models/lefthand.jpg) | Hand |
 
 
-**Hard Mode**
+## Hard Mode
 ![alt text](ReferenceResources/hardMode.png)
 
 | Models | Description |
@@ -101,7 +105,7 @@ There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*
 - Implement logical functions - All
 - Make a demo video - All
 - Write Report - All
-- **TODO: add more**
+
 
 # Conclusion
 We implemented a VR Puzzle Game with Blender, Unity and Oculus Rift. The game allows users to grab and assemble bones to educate them about the human skeletal system. In this project, we want to bring a new experience for players so that they can see the learning in a much more intriguing way.
@@ -109,7 +113,7 @@ We implemented a VR Puzzle Game with Blender, Unity and Oculus Rift. The game al
 # Future Work
 In future work, we would like to complete the game by adding hints to highlight the correct location of bones on the model being assembled to help players when they get stuck instead of only having a reference model. Displaying more information related to a bone that is grabbed would be useful in terms of learning. Besides, we aim to explore other features such as **Top Score** to save the score of player and **Highlight Effect** to make the pair of bones highlighted when the user assembles them correctly. It is also worth getting feedback from the players, especially medical students, to better understand their needs, which in turn helps us further improve the game for educational purpose.
 
-## Sources
+# Sources
 [1] Skeleton Model: https://sketchfab.com/3d-models/skeleton-aad392aff87246179789ac23063856a6
 
 [2] Snap Sound: https://www.fesliyanstudios.com/royalty-free-sound-effects-download/snapping-fingers-149
