@@ -36,53 +36,53 @@ There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*
 
 | Models | Description |
 | --- | --- |
-| ![alt text](/Models/CastalCartilage.jpg) | CastalCartilage |
-| ![alt text](/Models/FloatingRibs.jpg) | FloatingRibs|
-| ![alt text](/Models/Manubrium.jpg) | Manubrium |
-| ![alt text](/Models/Ribs.jpg) | Ribs |
-| ![alt text](/Models/Sternum.jpg) | Sternum|
-| ![alt text](/Models/XyphiodProcess.jpg) |XyphiodProcess |
+| ![alt text](ReferenceResources/Models/CastalCartilage.jpg) | CastalCartilage |
+| ![alt text](ReferenceResources/Models/FloatingRibs.jpg) | FloatingRibs|
+| ![alt text](ReferenceResources/Models/Manubrium.jpg) | Manubrium |
+| ![alt text](ReferenceResources/Models/Ribs.jpg) | Ribs |
+| ![alt text](ReferenceResources/Models/Sternum.jpg) | Sternum|
+| ![alt text](ReferenceResources/Models/XyphiodProcess.jpg) |XyphiodProcess |
 
 **Medium Mode:**
 (**Todo: a pic of the game in medium mode**)
 
 | Models | Description |
 | --- | --- |
-| ![alt text](/Models/Patella.jpg) | Patella |
-| ![alt text](/Models/Pelvis.jpg) | Pelvis|
-| ![alt text](/Models/Radius.jpg) | Radius |
-| ![alt text](/Models/RibCages.png) | RibCages |
-| ![alt text](/Models/Scapula.png) | Scapula|
-| ![alt text](/Models/Skull.jpg) |Skull |
-| ![alt text](/Models/Spine.jpg) | Spine |
-| ![alt text](/Models/Tibia.jpg) | Tibia |
-| ![alt text](/Models/Ulna.jpg) | Ulna |
-| ![alt text](/Models/leftClavicle.jpg) | Clavicle |
-| ![alt text](/Models/leftFemur.jpg) | Femur|
-| ![alt text](/Models/leftFibula.jpg) | Fibula |
-| ![alt text](/Models/leftFoot.jpg) | Foot |
-| ![alt text](/Models/leftHumerus.jpg) | Humerus |
-| ![alt text](/Models/lefthand.jpg) | Hand |
+| ![alt text](ReferenceResources/Models/Patella.jpg) | Patella |
+| ![alt text](ReferenceResources/Models/Pelvis.jpg) | Pelvis|
+| ![alt text](ReferenceResources/Models/Radius.jpg) | Radius |
+| ![alt text](ReferenceResources/Models/RibCages.png) | RibCages |
+| ![alt text](ReferenceResources/Models/Scapula.png) | Scapula|
+| ![alt text](ReferenceResources/Models/Skull.jpg) |Skull |
+| ![alt text](ReferenceResources/Models/Spine.jpg) | Spine |
+| ![alt text](ReferenceResources/Models/Tibia.jpg) | Tibia |
+| ![alt text](ReferenceResources/Models/Ulna.jpg) | Ulna |
+| ![alt text](ReferenceResources/Models/leftClavicle.jpg) | Clavicle |
+| ![alt text](ReferenceResources/Models/leftFemur.jpg) | Femur|
+| ![alt text](ReferenceResources/Models/leftFibula.jpg) | Fibula |
+| ![alt text](ReferenceResources/Models/leftFoot.jpg) | Foot |
+| ![alt text](ReferenceResources/Models/leftHumerus.jpg) | Humerus |
+| ![alt text](ReferenceResources/Models/lefthand.jpg) | Hand |
 
 **Hard Mode:**
 (**Todo: a pic of the game in hard mode**)
 
 | Models | Description |
 | --- | --- |
-| ![alt text](/Models/TemporalBone.jpg) | TemporalBone |
-| ![alt text](/Models/Teeth.jpg) | Teeth|
-| ![alt text](/Models/ZygomaticArch.jpg) | ZygomaticArch|
-| ![alt text](/Models/SphenoidBone.jpg) | SphenoidBone |
-| ![alt text](/Models/Scapula.png) | Scapula|
-| ![alt text](/Models/RightZygomaticBone.jpg) |RightZygomaticBone |
-| ![alt text](/Models/ParietalBone.jpg) | ParietalBone |
-| ![alt text](/Models/OccipitalBone.jpg) | OccipitalBone |
-| ![alt text](/Models/NasalBone.jpg) | NasalBone|
-| ![alt text](/Models/Maxilla.jpg) | Maxilla|
-| ![alt text](/Models/Mandible.jpg) | Mandible|
-| ![alt text](/Models/ZygomaticBone.jpg) | ZygomaticBone |
-| ![alt text](/Models/EyesSocket.jpg) | EyesSocket|
-| ![alt text](/Models/EthmoidBone.jpg) | EthmoidBone|
+| ![alt text](ReferenceResources/Models/TemporalBone.jpg) | TemporalBone |
+| ![alt text](ReferenceResources/Models/Teeth.jpg) | Teeth|
+| ![alt text](ReferenceResources/Models/ZygomaticArch.jpg) | ZygomaticArch|
+| ![alt text](ReferenceResources/Models/SphenoidBone.jpg) | SphenoidBone |
+| ![alt text](ReferenceResources/Models/Scapula.png) | Scapula|
+| ![alt text](ReferenceResources/Models/RightZygomaticBone.jpg) |RightZygomaticBone |
+| ![alt text](ReferenceResources/Models/ParietalBone.jpg) | ParietalBone |
+| ![alt text](ReferenceResources/Models/OccipitalBone.jpg) | OccipitalBone |
+| ![alt text](ReferenceResources/Models/NasalBone.jpg) | NasalBone|
+| ![alt text](ReferenceResources/Models/Maxilla.jpg) | Maxilla|
+| ![alt text](ReferenceResources/Models/Mandible.jpg) | Mandible|
+| ![alt text](ReferenceResources/Models/ZygomaticBone.jpg) | ZygomaticBone |
+| ![alt text](ReferenceResources/Models/EyesSocket.jpg) | EyesSocket|
+| ![alt text](ReferenceResources/Models/EthmoidBone.jpg) | EthmoidBone|
 
 
 # Team Contribution
