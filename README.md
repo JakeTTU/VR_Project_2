@@ -5,7 +5,7 @@ Describe your application by screenshots (with meaningful captions) and text. Ma
 Links to all the source code and any assets (models, textures, sounds). Make sure you source code is well-commented.
 
 # Demo
-(Video link)
+**(Video link)**
 
 
 # Introduction
@@ -22,7 +22,7 @@ First, we use [Blender](https://www.blender.org/) to create the bone models from
 For this game, the player has the choice between three game difficulties, *Easy Mode*, *Medium Mode*, and *Hard Mode*. In *Easy Mode*, the player assembles a detailed ribcage. For *Medium Mode*, the player assembles all of the bones of the human skeleton. For *Hard Mode*, the player assembles a detailed model of the human skull. When assembling the bones, an audible snap is presented to the player when the player positions the bone in the correct location. When the bone is released after the snap sound is heard, the bone anchor relocates to the position of the predetermined snap location.
 ![alt text](ReferenceResources/snapLocations.png)
 
-When a bone is grabbed by the user, the name of the bone appears next to the bone with the purpose to aid in the education of the player. (**Todo: Add picture**) 
+When a bone is grabbed by the user, the name of the bone appears next to the bone with the purpose to aid in the education of the player. (**Todo: Add a gif**) 
 
 To track the performance of the player, a timer is implemented to start when the player selects a game mode. After the player assembles the model of the selected game mode, the timer is automatically stopped to track how long it took to assemble the model. 
 
@@ -32,10 +32,8 @@ If a case arises when the player does not know the correct connection of a parti
 There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*, and *Hard Mode*. At the welcome screen, the user can choose the mode from the Menu. The timer will start to count and be shown in the top right corner of the headset after the mode is chosen.
 ![alt text](ReferenceResources/skeletons.PNG)
 
-**Easy Mode:**
+**Easy Mode**
 ![alt text](ReferenceResources/easyMode.png)
-
-(**Todo: a pic of the game in easy mode**)
 
 | Models | Description |
 | --- | --- |
@@ -46,7 +44,8 @@ There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*
 | ![alt text](ReferenceResources/Models/Sternum.jpg) | Sternum|
 | ![alt text](ReferenceResources/Models/XyphiodProcess.jpg) |XyphiodProcess |
 
-**Medium Mode:**
+
+**Medium Mode**
 ![alt text](ReferenceResources/mediumMode.png)
 
 | Models | Description |
@@ -67,7 +66,8 @@ There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*
 | ![alt text](ReferenceResources/Models/leftHumerus.jpg) | Humerus |
 | ![alt text](ReferenceResources/Models/lefthand.jpg) | Hand |
 
-**Hard Mode:**
+
+**Hard Mode**
 ![alt text](ReferenceResources/hardMode.png)
 
 | Models | Description |
