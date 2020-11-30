@@ -62,6 +62,22 @@ There are three difficulty levels in the game, namely Easy Mode, Medium Mode, an
 | ![alt text](/Models/lefthand.jpg) | Hand |
 
 **Hard Mode:**
+| Models | Description |
+| --- | --- |
+| ![alt text](/Models/TemporalBone.jpg) | TemporalBone |
+| ![alt text](/Models/Teeth.jpg) | Teeth|
+| ![alt text](/Models/ZygomaticArch.jpg) | ZygomaticArch|
+| ![alt text](/Models/SphenoidBone.jpg) | SphenoidBone |
+| ![alt text](/Models/Scapula.png) | Scapula|
+| ![alt text](/Models/RightZygomaticBone.jpg) |RightZygomaticBone |
+| ![alt text](/Models/ParietalBone.jpg) | ParietalBone |
+| ![alt text](/Models/OccipitalBone.jpg) | OccipitalBone |
+| ![alt text](/Models/NasalBone.jpg) | NasalBone|
+| ![alt text](/Models/Maxilla.jpg) | Maxilla|
+| ![alt text](/Models/Mandible.jpg) | Mandible|
+| ![alt text](/Models/ZygomaticBone.jpg) | ZygomaticBone |
+| ![alt text](/Models/EyesSocket.jpg) | EyesSocket|
+| ![alt text](/Models/EthmoidBone.jpg) | EthmoidBone|
 
 
 # Team Contribution
