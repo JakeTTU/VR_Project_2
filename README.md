@@ -20,9 +20,11 @@ Our aim is to provide an interactive and appealing educational application to fa
 First, we use [Blender](https://www.blender.org/) to create the bone models from a full skeleton model [1]. These individual bones are then used to design the game and scaled so that the final assembled full skeleton was 6 feet tall. The game is implemented using [Unity](https://unity.com/) for gameplay on [Oculus Rift](https://www.oculus.com/rift/). 
 
 For this game, the player has the choice between three game difficulties, *Easy Mode*, *Medium Mode*, and *Hard Mode*. In *Easy Mode*, the player assembles a detailed ribcage. For *Medium Mode*, the player assembles all of the bones of the human skeleton. For *Hard Mode*, the player assembles a detailed model of the human skull. When assembling the bones, an audible snap is presented to the player when the player positions the bone in the correct location. When the bone is released after the snap sound is heard, the bone anchor relocates to the position of the predetermined snap location.
+
 ![alt text](ReferenceResources/snapLocations.png)
 
 When a bone is grabbed by the user, the name of the bone appears next to the bone with the purpose to aid in the education of the player.
+
 ![alt text](ReferenceResources/interaction.gif)
 
 To track the performance of the player, a timer is implemented to start when the player selects a game mode. After the player assembles the model of the selected game mode, the timer is automatically stopped to track how long it took to assemble the model. 
@@ -31,6 +33,7 @@ If a case arises when the player does not know the correct connection of a parti
 
 # Game Descriptions
 There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*, and *Hard Mode*. At the welcome screen, the user can choose the mode from the Menu. The timer will start to count and be shown in the top right corner of the headset after the mode is chosen.
+
 ![alt text](ReferenceResources/skeletons.PNG)
 
 **Easy Mode**
