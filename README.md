@@ -13,16 +13,14 @@ Links to all the source code and any assets (models, textures, sounds). Make sur
 Virtual Reality (VR) is a simulated experience that allows people to immerse themselves in any new world. It has become a new era of visualization technology recently with many applications in various fields such as gaming and education.
 In this project, we develop **Skeletons** , a puzzle game aiming to educate players about the skeletal system using [Oculus Rift](https://www.oculus.com/rift/).
 Our aim is to provide an interactive and appealing educational application to facilitate learning about bones and the skeletal system.
-![alt text](ReferenceResources/skeletons.PNG)
-
-
 
 
 # Design Solution
 
 First, we use [Blender](https://www.blender.org/) to create the bone models from a full skeleton model [1]. These individual bones are then used to design the game and scaled so that the final assembled full skeleton was 6 feet tall. The game is implemented using [Unity](https://unity.com/) for gameplay on [Oculus Rift](https://www.oculus.com/rift/). 
 
-For this game, the player has the choice between three game difficulties, *Easy Mode*, *Medium Mode*, and *Hard Mode*. In *Easy Mode*, the player assembles a detailed ribcage. For *Medium Mode*, the player assembles all of the bones of the human skeleton. For *Hard Mode*, the player assembles a detailed model of the human skull. When assembling the bones, an audible snap is presented to the player when the player positions the bone in the correct location. When the bone is released after the snap sound is heard, the bone anchor relocates to the position of the predetermined snap location. (**Todo: Add picture**)
+For this game, the player has the choice between three game difficulties, *Easy Mode*, *Medium Mode*, and *Hard Mode*. In *Easy Mode*, the player assembles a detailed ribcage. For *Medium Mode*, the player assembles all of the bones of the human skeleton. For *Hard Mode*, the player assembles a detailed model of the human skull. When assembling the bones, an audible snap is presented to the player when the player positions the bone in the correct location. When the bone is released after the snap sound is heard, the bone anchor relocates to the position of the predetermined snap location.
+![alt text](ReferenceResources/snapLocations.png)
 
 When a bone is grabbed by the user, the name of the bone appears next to the bone with the purpose to aid in the education of the player. (**Todo: Add picture**) 
 
@@ -31,9 +29,12 @@ To track the performance of the player, a timer is implemented to start when the
 If a case arises when the player does not know the correct connection of a particular bone, the player can reference the skeleton located by the welcome menu for a hint. 
 
 # Game descriptions
-There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*, and *Hard Mode*. At the welcome screen, the user can choose the mode from the Menu. The timer will start to count and be shown in the top right corner of the headset after the mode is chosen (**Todo: pic of the menu and the timer**).
+There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*, and *Hard Mode*. At the welcome screen, the user can choose the mode from the Menu. The timer will start to count and be shown in the top right corner of the headset after the mode is chosen.
+![alt text](ReferenceResources/skeletons.PNG)
 
 **Easy Mode:**
+![alt text](ReferenceResources/easyMode.png)
+
 (**Todo: a pic of the game in easy mode**)
 
 | Models | Description |
@@ -46,7 +47,7 @@ There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*
 | ![alt text](ReferenceResources/Models/XyphiodProcess.jpg) |XyphiodProcess |
 
 **Medium Mode:**
-(**Todo: a pic of the game in medium mode**)
+![alt text](ReferenceResources/mediumMode.png)
 
 | Models | Description |
 | --- | --- |
@@ -67,7 +68,7 @@ There are three difficulty levels in the game, namely *Easy Mode*, *Medium Mode*
 | ![alt text](ReferenceResources/Models/lefthand.jpg) | Hand |
 
 **Hard Mode:**
-(**Todo: a pic of the game in hard mode**)
+![alt text](ReferenceResources/hardMode.png)
 
 | Models | Description |
 | --- | --- |
