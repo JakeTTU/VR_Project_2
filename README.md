@@ -4,19 +4,21 @@ Clearly explain the duties of each student in your group (if you work as a group
 Describe your application by screenshots (with meaningful captions) and text. Make sure you have the list and screenshots of models.
 Links to all the source code and any assets (models, textures, sounds). Make sure you source code is well-commented.
 
-# Introduction
-
-Virtual Reality (VR) is a simulated experience that allows people to immerse themselves in any new world. It has become a new era of visualization technology recently with many applications in various fields such as gaming and education.
-In this project, we develop **Skeletons** (**Todo: add a picture of the game**), a puzzle game aiming to educate players about the skeletal system using [Oculus Rift](https://www.oculus.com/rift/).
-Our aim is to provide an interactive and appealing educational application to facilitate learning about bones and the skeletal system.
-
 # Demo
 (Video link)
 
 
+# Introduction
+
+Virtual Reality (VR) is a simulated experience that allows people to immerse themselves in any new world. It has become a new era of visualization technology recently with many applications in various fields such as gaming and education.
+In this project, we develop **Skeletons** , a puzzle game aiming to educate players about the skeletal system using [Oculus Rift](https://www.oculus.com/rift/).
+Our aim is to provide an interactive and appealing educational application to facilitate learning about bones and the skeletal system.
+![alt text](ReferenceResources/skeletons.PNG)
+
+
+
 
 # Design Solution
-
 
 First, we use [Blender](https://www.blender.org/) to create the bone models from a full skeleton model [1]. These individual bones are then used to design the game and scaled so that the final assembled full skeleton was 6 feet tall. The game is implemented using [Unity](https://unity.com/) for gameplay on [Oculus Rift](https://www.oculus.com/rift/). 
 
